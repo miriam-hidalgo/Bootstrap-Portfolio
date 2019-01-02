@@ -1,0 +1,54 @@
+.jumbotron{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color: black;
+}
+
+.nav-tabs {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    font-size: 20px;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;   
+}
+
+#aboutMe{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+#miriPhoto {
+    height: 200px; 
+    width: 180px;  
+}
+
+.social {
+    height: 80px;
+    width: 80px;
+}
+
+#sidebar{
+    text-align: center;
+    line-height: 2;
+}
+
+footer {
+    background: rgb(226, 223, 223);
+    align-content: center;
+    margin-top: 10%;
+}
+
+.auth-image {
+    height: 200px;
+    width: 240px;
+    margin-top: 15%;
+    margin-bottom: 5%;
+}
+
+form {
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
